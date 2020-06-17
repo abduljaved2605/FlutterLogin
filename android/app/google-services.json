@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741972455617",
+    "firebase_url": "https://autolayv2.firebaseio.com",
+    "project_id": "autolayv2",
+    "storage_bucket": "autolayv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741972455617:android:8c22540a0d7c4015ed6440",
+        "android_client_info": {
+          "package_name": "com.example.autolay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741972455617-j07ho2146r2j1a0g2lh6gc90uk5qv1kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcRLatCaD5b8cYR71OHp80W3ULUyQ__QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741972455617-j07ho2146r2j1a0g2lh6gc90uk5qv1kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
